@@ -1,0 +1,127 @@
+# depslib dependency file v1.0
+1512931267 source:c:\users\benoît clemenceau\desktop\projet d'informatique ing1 s1\main.c
+	"header.h"
+
+1512938669 c:\users\benoît clemenceau\desktop\projet d'informatique ing1 s1\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+
+1512932283 source:c:\users\benoît clemenceau\desktop\projet d'informatique ing1 s1\menu.c
+	"header.h"
+
+1511985976 source:c:\users\benoît clemenceau\desktop\projet d'informatique ing1 s1\jouer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"header.h"
+
+1511998406 source:c:\users\benoît clemenceau\desktop\projet d'informatique ing1 s1\regles.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"header.h"
+
+1512687369 source:c:\users\benoît clemenceau\desktop\projet d'informatique ing1 s1\initialisationgrille.c
+	"header.h"
+
+1511998406 source:c:\users\benoît clemenceau\desktop\projet d'informatique ing1 s1\joueurcontrejoueur.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"header.h"
+
+1512599482 source:c:\users\benoît clemenceau\desktop\projet d'informatique ing1 s1\affichagegrille.c
+	"header.h"
+
+1512146256 source:c:\users\benoît clemenceau\desktop\projet d'informatique ing1 s1\placementbateauxaleatoire.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"header.h"
+
+1512931267 source:c:\users\benoît clemenceau\desktop\projet d'informatique ing1 s1\choixaction.c
+	"header.h"
+
+1511998406 source:c:\users\benoît clemenceau\desktop\projet d'informatique ing1 s1\joueurcontreordinateur.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"header.h"
+
+1512938669 source:c:\users\benoît clemenceau\desktop\projet d'informatique ing1 s1\changementjoueur.c
+	"header.h"
+
+1512940643 source:c:\users\benoît clemenceau\desktop\projet d'informatique ing1 s1\actionaleaia.c
+	"header.h"
+
+1512554828 source:c:\users\théophile\desktop\projet d'informatique ing1 s1\actionaleaia.c
+	"header.h"
+
+1512554551 c:\users\théophile\desktop\projet d'informatique ing1 s1\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+
+1512554551 source:c:\users\théophile\desktop\projet d'informatique ing1 s1\affichagegrille.c
+	"header.h"
+
+1512554551 source:c:\users\théophile\desktop\projet d'informatique ing1 s1\changementjoueur.c
+	"header.h"
+
+1512555227 source:c:\users\théophile\desktop\projet d'informatique ing1 s1\choixaction.c
+	"header.h"
+
+1512554551 source:c:\users\théophile\desktop\projet d'informatique ing1 s1\initialisationgrille.c
+	"header.h"
+
+1512133549 source:c:\users\théophile\desktop\projet d'informatique ing1 s1\jouer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"header.h"
+
+1512136353 source:c:\users\théophile\desktop\projet d'informatique ing1 s1\joueurcontrejoueur.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"header.h"
+
+1512129391 source:c:\users\théophile\desktop\projet d'informatique ing1 s1\joueurcontreordinateur.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"header.h"
+
+1512554551 source:c:\users\théophile\desktop\projet d'informatique ing1 s1\main.c
+	"header.h"
+
+1512554551 source:c:\users\théophile\desktop\projet d'informatique ing1 s1\menu.c
+	"header.h"
+
+1512129391 source:c:\users\théophile\desktop\projet d'informatique ing1 s1\placementbateauxaleatoire.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"header.h"
+
+1512129391 source:c:\users\théophile\desktop\projet d'informatique ing1 s1\regles.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"header.h"
+
